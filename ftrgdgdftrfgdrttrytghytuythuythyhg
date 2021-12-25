@@ -1,0 +1,24 @@
+<html>
+<title> всё о котах </title>
+<body>
+<header style="background-color:darkorange"><img src="https://cdn-icons-png.flaticon.com/128/2325/2325516.png" height=60px/id="start">всё о котах</header>
+<main>
+ <h2> чем они питаются</h2>
+ <img src="https://cdn.pixabay.com/photo/2018/06/14/13/03/cat-3474821_960_720.jpg"/>
+ <p>котам нужно давать качественную еду</p>
+ <table style="border: 1px solid blue;border-collapse:colapse">
+<tr style="border:1px solid blue">
+<td></td>
+<td>еда</td>
+<td></td>
+</tr>
+<tr style="border:1px solid blue">
+<td>молоко</td>
+<td>мясо (сырое)</td>
+<td>корм</td>
+</tr>
+</table>
+</main>
+<footer style="background-color:darkorange;">ABOBA</footer>
+</body>
+</html>
